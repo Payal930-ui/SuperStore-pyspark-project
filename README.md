@@ -16,7 +16,7 @@ It focuses on solving real-world data problems such as handling malformed data, 
 
 ## 🏗️ Architecture
 
-![Architecture](architecture.png)
+![Architecture](superstore.png)
 
 ---
 
